@@ -51,4 +51,6 @@ ii) ID_BIB: Identificador para el dato bibliográfico en cada publicación\
 iii) BIB: Bibliografía reportada
 
 
-a) La página electrónica es la siguiente: http://www.eltrimestreeconomico.com.mx/index.php/te . Se destaca que sólo no se obtuvo la información de un artículo cuyo contenido sólo aparece en formato PDF en la página electrónica de la revista
+
+
+<sup>a</sup> La página electrónica es la siguiente: http://www.eltrimestreeconomico.com.mx/index.php/te . Se destaca que sólo no se obtuvo la información de un artículo cuyo contenido sólo aparece en formato PDF en la página electrónica de la revista
