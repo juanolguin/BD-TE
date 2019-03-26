@@ -1,5 +1,6 @@
 # BD-TE
-**Base de datos relacional sobre las publicaciones del Trimestre Económico**
+
+**1) Base de datos relacional sobre las publicaciones del Trimestre Económico**
 
 Se descargaron los datos asociados a las publicaciones de la revista científica el Trimestre Económico publicada por el Fondo de Cultura Económica. Los datos obtenidos corresponden a las publicaciones disponibles en la página electrónica de la revista. <sup>a</sup> El contenido se almacenó en una base de datos relacional que consta de las siguientes siete tablas:
 
@@ -45,6 +46,16 @@ ii) TEXTO: Resumen para cada publicación
 i) LLAVE: Identificador único para cada publicación\
 ii) ID_BIB: Identificador para el dato bibliográfico en cada publicación\
 iii) BIB: Bibliografía reportada
+
+**2) Para descargar**
+
+Las personas con conocimiento de GitHub tienen la opción de clonar el repositorio. Los demás interesados pueden obtenerl las tablas de la forma siguiente:
+
+i)
+
+ii)
+
+iii)
 
 
 
