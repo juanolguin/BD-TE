@@ -44,9 +44,6 @@ i) LLAVE: Identificador único para cada publicación\
 ii) TEXTO: Resumen para cada publicación\
 
 7) BIBLIOGRAFIA:\
-i) 
-ii)
-iii)
-iv)
-v)
-
+i) LLAVE: Identificador único para cada publicación\
+ii) ID_BIB:
+iii) BIB:
