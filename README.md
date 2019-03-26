@@ -1,4 +1,4 @@
-# DB-ETE
+# BD-TE
 **Base de datos relacional sobre las publicaciones del Trimestre Económico**
 
 Se descargaron los datos asociados a las publicaciones de la revista científica el Trimestre Económico publicada por el Fondo de Cultura Económica. Los datos obtenidos corresponden a las publicaciones disponibles en la página electrónica de la revista:<sup>a</sup>
