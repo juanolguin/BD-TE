@@ -53,6 +53,8 @@ Las personas con conocimiento de GitHub tienen la opción de clonar el repositor
 
 i)
 
+![alt text](https://github.com/juanolguin/BD-TE/blob/master/Tip/F1.png)
+
 ii)
 
 iii)
