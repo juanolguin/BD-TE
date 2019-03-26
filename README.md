@@ -40,14 +40,11 @@ iii) PALABRAS_CLAVE: Palabras clave reportadas\
 iv) EST_PALABRAS_CLAVE: Estandarización de las palabras clave reportadas (Estandarización propia)\
 
 6) RESUMEN:\
-i)
-ii)
-iii)
-iv)
-v)
+i) LLAVE: Identificador único para cada publicación\
+ii) TEXTO: Resumen para cada publicación\
 
 7) BIBLIOGRAFIA:\
-i)
+i) 
 ii)
 iii)
 iv)
