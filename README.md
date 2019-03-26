@@ -49,7 +49,7 @@ iii) BIB: Bibliografía reportada
 
 **2) Para descargar**
 
-Las personas con conocimiento de GitHub tienen la opción de clonar el repositorio. Los demás interesados pueden obtenerl las tablas de la forma siguiente:
+Las personas con conocimiento de GitHub tienen la opción de clonar el repositorio. Los demás interesados pueden obtener las tablas de la forma siguiente:
 
 i) Abra la carpeta BD-TE
 
