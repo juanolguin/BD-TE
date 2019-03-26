@@ -23,7 +23,7 @@ iv) EST_AUTOR: Nombre estandarizado del autor (Estandarización propia)
 3) INSTITUCIONES: Nombres de las instituciones a las que reportan adscripción los autores. Los campos son los que siguen:\
 i) LLAVE: Identificador único para cada publicación\
 ii) ID_AUTOR: Identificador para cada autor dentro de cada publicación\
-iii) INSTITUCION: Institución a la que los autores reportan a adscripción\
+iii) INSTITUCION: Institución a la que los autores reportan adscripción\
 iv) EST_INSTITUCION: Nombre estandarizado y agrupado de la institución (Estandarización propia)
 
 4) JEL: Clasificación JEL (*Journal of Economic Literature*) reportada. Se incluyen los campos siguientes:\
