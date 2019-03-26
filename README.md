@@ -51,14 +51,17 @@ iii) BIB: Bibliografía reportada
 
 Las personas con conocimiento de GitHub tienen la opción de clonar el repositorio. Los demás interesados pueden obtenerl las tablas de la forma siguiente:
 
-i)
+i) Abra la carpeta BD-TE
 
 ![alt text](https://github.com/juanolguin/BD-TE/blob/master/Tip/F1.png)
 
-ii)
+ii) Elija la tabla necesaria
 
-iii)
+![alt text](https://github.com/juanolguin/BD-TE/blob/master/Tip/F2.png)
 
+iii) Descargue
+
+![alt text](https://github.com/juanolguin/BD-TE/blob/master/Tip/F3.png)
 
 
 
