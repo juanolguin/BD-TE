@@ -10,9 +10,16 @@ Los datos obtenidos se almacenaron en una base de datos que consta de las tablas
 i) LLAVE: Identificador único para cada publicación\
 ii) ANIO: Año de la publicación\
 iii) TITULO: Título de la publicación\
-iv) TIPO: Clasificación asignada por la revista (Artículo, Perspectiva Económica, etcétera)
-v) VOLUMEN: Volumen de la publicación
-vi) NUMERO: Número de la publicación
-vii) PRIMERA_P: Primera página de la contribución
-viii) ULTIMA_P: Última página de la contribución
-ix) EXTENCION: Extención de la contribución
+iv) TIPO: Clasificación asignada por la revista (Artículo, Perspectiva Económica, etcétera)\
+v) VOLUMEN: Volumen de la publicación\
+vi) NUMERO: Número de la publicación\
+vii) PRIMERA_P: Primera página de la contribución\
+viii) ULTIMA_P: Última página de la contribución\
+ix) EXTENCION: Extención de la contribución\
+
+2) AUTORES: Nombres de los autores que contribuyen en cada publicación. Los campos son los siguientes:
+
+i) LLAVE: Identificador único para cada publicación\
+ii) ID_AUTOR: Identificador para cada autor dentro de cada publicación\
+iii) AUTOR: Nombre reportado en cada publicación\
+iv) EST_AUTOR: Nombre estandarizado del autor (Estandarización propia)\
