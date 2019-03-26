@@ -1,7 +1,7 @@
 # BD-TE
 **Base de datos relacional sobre las publicaciones del Trimestre Económico**
 
-Se descargaron los datos asociados a las publicaciones de la revista científica el Trimestre Económico publicada por el Fondo de Cultura Económica. Los datos obtenidos corresponden a las publicaciones disponibles en la página electrónica de la revista. <sup>a</sup> Los datos se almacenaron en una base de datos relacional que consta de las siguientes siete tablas:
+Se descargaron los datos asociados a las publicaciones de la revista científica el Trimestre Económico publicada por el Fondo de Cultura Económica. Los datos obtenidos corresponden a las publicaciones disponibles en la página electrónica de la revista. <sup>a</sup> El contenido se almacenó en una base de datos relacional que consta de las siguientes siete tablas:
 
 1) ARTICULOS: Datos bibliográficos básicos de cada publicación. La tabla contiene los siguientes campos:\
 i) LLAVE: Identificador único para cada publicación\
