@@ -1,7 +1,9 @@
 # DB-ETE
 Base de datos relacional sobre las publicaciones del Trimestre Económico
 
-Se descargaron los datos asociados a las publicaciones de la revista científica el Trimestre Económico publicada por el Fondo de Cultura Económica. Los datos obtenidos corresponden a las publicaciones disponibles en la página electrónica de la revista: http://www.eltrimestreeconomico.com.mx/index.php/te
+Se descargaron los datos asociados a las publicaciones de la revista científica el Trimestre Económico publicada por el Fondo de Cultura Económica. Los datos obtenidos corresponden a las publicaciones disponibles en la página electrónica de la revista:<sup>a</sup>
+
+
 
 Los datos se almacenaron en una base de datos relacional que consta de las tablas siguientes:
 
@@ -47,3 +49,6 @@ ii) TEXTO: Resumen para cada publicación
 i) LLAVE: Identificador único para cada publicación\
 ii) ID_BIB: Identificador para el dato bibliográfico en cada publicación\
 iii) BIB: Bibliografía reportada
+
+
+a) La página electrónica es la siguiente: http://www.eltrimestreeconomico.com.mx/index.php/te . Se destaca que sólo no se obtuvo la información de un artículo cuyo contenido sólo aparece en formato PDF en la página electrónica de la revista
