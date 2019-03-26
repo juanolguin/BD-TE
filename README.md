@@ -24,12 +24,45 @@ ii) ID_AUTOR: Identificador para cada autor dentro de cada publicación\
 iii) AUTOR: Nombre reportado en cada publicación\
 iv) EST_AUTOR: Nombre estandarizado del autor (Estandarización propia)\
 
-3) INSTITUCIONES: 
+3) INSTITUCIONES:
+
+i)
+ii)
+iii)
+iv)
+v)
 
 4) JEL:
 
+i)
+ii)
+iii)
+iv)
+v)
+
+
 5) PALABRAS CLAVE:
+
+i)
+ii)
+iii)
+iv)
+v)
+
 
 6) RESUMEN:
 
+i)
+ii)
+iii)
+iv)
+v)
+
 7) BIBLIOGRAFIA:
+
+i)
+ii)
+iii)
+iv)
+v)
+
