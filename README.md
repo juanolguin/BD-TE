@@ -7,7 +7,7 @@ Los datos obtenidos se almacenaron en una base de datos que consta de las tablas
 
 1) ARTICULOS: Datos bibliográficos básicos de cada publicación. La tabla contiene los siguientes campos:
 
-i) LLAVE: Identificador único para cada publicación\n
+i) LLAVE: Identificador único para cada publicación\n\r
 ii) ANIO: Año de la publicación
 iii) TITULO: Título de la publicación
 iv) TIPO: Clasificación asignada por la revista (Artículo, Perspectiva Económica, etcétera)
