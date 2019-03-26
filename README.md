@@ -45,7 +45,7 @@ iv) EST_PALABRAS_CLAVE: Estandarización de las palabras clave reportadas (Estan
 i) LLAVE: Identificador único para cada publicación\
 ii) TEXTO: Resumen para cada publicación
 
-7) BIBLIOGRAFIA:\
+7) BIBLIOGRAFIA: Tabla formada por las fuentes bibliográficas de cada publicación: Los campos son los siguientes:\
 i) LLAVE: Identificador único para cada publicación\
 ii) ID_BIB: Identificador para el dato bibliográfico en cada publicación\
 iii) BIB: Bibliografía reportada
