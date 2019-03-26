@@ -1,5 +1,5 @@
 # BD-TE
-**Olguín Monroy, Juan. (2019). El Trimestre Económico de los últimos años. (Borrador). Ciudad de México, México
+**Olguín Monroy, Juan (2019). El Trimestre Económico de los últimos años. (Borrador). Ciudad de México, México
 
 
 **1) Base de datos relacional sobre las publicaciones del Trimestre Económico**
