@@ -5,8 +5,7 @@ Se descargaron los datos asociados a las publicaciones de la revista científica
 
 Los datos se almacenaron en una base de datos relacional que consta de las tablas siguientes:
 
-1) ARTICULOS: Datos bibliográficos básicos de cada publicación. La tabla contiene los siguientes campos:
-
+1) ARTICULOS: Datos bibliográficos básicos de cada publicación. La tabla contiene los siguientes campos:\
 i) LLAVE: Identificador único para cada publicación\
 ii) ANIO: Año de la publicación\
 iii) TITULO: Título de la publicación\
@@ -17,49 +16,37 @@ vii) PRIMERA_P: Primera página de la contribución\
 viii) ULTIMA_P: Última página de la contribución\
 ix) EXTENCION: Extención de la contribución\
 
-2) AUTORES: Nombres de los autores que contribuyen en cada publicación. Los campos son los siguientes:
-
+2) AUTORES: Nombres de los autores que contribuyen en cada publicación. Los campos son los siguientes:\
 i) LLAVE: Identificador único para cada publicación\
 ii) ID_AUTOR: Identificador para cada autor dentro de cada publicación\
 iii) AUTOR: Nombre reportado en cada publicación\
 iv) EST_AUTOR: Nombre estandarizado del autor (Estandarización propia)\
 
-3) INSTITUCIONES:
+3) INSTITUCIONES:\
+i) LLAVE: Identificador único para cada publicación\
+ii) ID_AUTOR: Identificador para cada autor dentro de cada publicación\
+iii) INSTITUCION: Institución a la que los autores reportan a adscripción\
+iv) EST_INSTITUCION: Nombre estandarizado y agrupado de la institución (Estandarización propia)\
 
+4) JEL:\
+i) LLAVE: Identificador único para cada publicación\
+ii) ID_JEL: Identificador para cada clasificación JEL usada para cada publicación\
+iii) JEL: Clasificación JEL reportada\
+
+5) PALABRAS CLAVE:\
+i) LLAVE: Identificador único para cada publicación\
+ii) ID_PC: Identificador para cada palabra clave usada en cada publicación\
+iii) PALABRAS_CLAVE: Palabras clave reportadas\
+iv) EST_PALABRAS_CLAVE: Estandarización de las palabras clave reportadas (Estandarización propia)\
+
+6) RESUMEN:\
 i)
 ii)
 iii)
 iv)
 v)
 
-4) JEL:
-
-i)
-ii)
-iii)
-iv)
-v)
-
-
-5) PALABRAS CLAVE:
-
-i)
-ii)
-iii)
-iv)
-v)
-
-
-6) RESUMEN:
-
-i)
-ii)
-iii)
-iv)
-v)
-
-7) BIBLIOGRAFIA:
-
+7) BIBLIOGRAFIA:\
 i)
 ii)
 iii)
